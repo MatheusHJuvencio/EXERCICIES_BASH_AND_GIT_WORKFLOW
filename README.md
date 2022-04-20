@@ -1,3 +1,9 @@
+# Sobre o diretório:
+
+### O presente diretório consiste em exercícios para aprimorar a rotina de workflow dentro do Git
+
+
+
 # Exercício Workflows Git
 
 Utilizaremos uma amostra dos dados de 2006 do dataset: [Data Expo 2009: Airline on time
