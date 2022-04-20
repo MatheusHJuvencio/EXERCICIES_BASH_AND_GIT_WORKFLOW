@@ -1,6 +1,6 @@
 # Sobre o diretório:
 
-### O presente diretório consiste em exercícios para aprimorar a rotina de workflow dentro do Git
+#### O presente diretório consiste em exercícios para aprimorar a rotina de workflow dentro do Git.
 
 
 
